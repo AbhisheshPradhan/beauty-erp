@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Host/">
+    <Project Path="src/Host/BeautyErp.Host.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Business/">
+    <Project Path="src/Modules/Business/BeautyErp.Modules.Business.csproj" />
+  </Folder>
+</Solution>
